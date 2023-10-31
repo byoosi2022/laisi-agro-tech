@@ -1,4 +1,4 @@
-./build
-./.dart_tool
-./.vscode
+build/
+.dart_tool/
+.vscode/
 
