@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "Tunahitaji ufikiaji wa kamera yako ili kupiga picha kwa uthibitishaji wa bidhaa na picha za wasifu wa mtumiaji.";
+PermissionGroupNotification = "Tunahitaji ruhusa yako ili kutuma arifa. Pokea arifa kuhusu punguzo, utoaji wa maagizo, na ushauri wa kitaalamu wa kilimo!";
+NSPhotoLibraryUsageDescription = "Tunahitaji ufikiaji wa maktaba yako ya picha ili kupakia picha za bidhaa na picha za wasifu.";
+NSLocationWhenInUseUsageDescription = "Tunahitaji eneo lako ili kutoa huduma sahihi za uwasilishaji na mapendekezo yanayokufaa.";

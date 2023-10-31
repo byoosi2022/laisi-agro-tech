@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "We need access to your camera to capture photos for product verification and user profile pictures.";
+PermissionGroupNotification = "We need your permission to send notifications. Receive alerts about discounts, order deliveries, and expert farming advice!";
+NSPhotoLibraryUsageDescription = "We need access to your photo library to upload images for products and profile pictures.";
+NSLocationWhenInUseUsageDescription = "We need your location to provide accurate delivery services and personalized recommendations.";
